@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CatPark</string>
+
+    <string name="dice_with_one_dot">Dadu memiliki satu titik</string>
+    <string name="dice_with_two_dot">Dadu memiliki dua titik</string>
+    <string name="dice_with_three_dot">Dadu memiliki tiga titik</string>
+    <string name="dice_with_fourth_dot">Dadu memiliki empat titik</string>
+    <string name="dice_with_five_dot">Dadu memiliki lima titik</string>
+    <string name="dice_with_six_dot">Dadu memiliki enam titik</string>
+
+    <string name="move">Make some :</string>
+    <string name="cilok">colok</string>
+    <string name="donat_sate">donat sate</string>
+    <string name="dumpling_ayam">dumpling ayam</string>
+    <string name="kebab">kebab</string>
+    <string name="kue">kue</string>
+    <string name="leker_pisang">lekerpisang</string>
+    <string name="makaroni_scotel">makaroni scotel</string>
+    <string name="martabak_mini">martabak mini</string>
+    <string name="oreo_goreng">oreo goreng</string>
+    <string name="samosa">samosa</string>
+</resources>
